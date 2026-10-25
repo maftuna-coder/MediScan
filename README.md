@@ -56,3 +56,11 @@ MediScan is an educational prototype and is not a medical diagnostic tool. Its r
 - **Course:** Software Design in Intelligent Systems
 - **Platform:** Android
 - **Repository:** https://github.com/maftuna-coder/MediScan
+
+## System Architecture
+
+The diagram illustrates the main components of MediScan, including
+the Android user interface, rule-based assessment engine,
+MedlinePlus health information service, and local assessment history.
+
+![MediScan System Architecture](docs/MediScan_Architecture.png)
