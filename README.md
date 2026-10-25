@@ -63,4 +63,4 @@ The diagram illustrates the main components of MediScan, including
 the Android user interface, rule-based assessment engine,
 MedlinePlus health information service, and local assessment history.
 
-![MediScan System Architecture](docs/MediScan_Architecture.png)
+![MediScan System Architecture](https://github.com/maftuna-coder/MediScan/blob/master/MediScan_Architecture.png)
